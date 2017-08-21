@@ -25,3 +25,5 @@ Files: Assignment 19.2.PDF; SingleColumnValueFilterDemo.JAVA & table.PY
 Explain the below concepts with an example in brief.
 HBase Thrift Server
 HBase Rest Server
+
+Files: Assignment 19.2.PDF;
