@@ -18,6 +18,8 @@ Files: Assignment 19.1.PDF, script191.1.HQL & script191.2.PIG
 3. Create a HBase Filter to filter out the customer information where location is AUS
 4. Create a Python program that connects to HBase using Thrift protocol and gets names of all HBase tables
 
+Files: Assignment 19.2.PDF; SingleColumnValueFilterDemo.JAVA & table.PY
+
 -------------------------------------------------------------------------------------
 
 Explain the below concepts with an example in brief.
